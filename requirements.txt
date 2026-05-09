@@ -3,3 +3,6 @@ pandas
 plotly
 scipy
 openpyxl
+google-api-python-client
+google-auth
+matplotlib
